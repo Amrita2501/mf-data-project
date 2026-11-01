@@ -1,0 +1,4 @@
+Fund Master Codes: 40
+NAV History Codes: 40
+Missing Codes: 0
+All AMFI codes exist in NAV history
